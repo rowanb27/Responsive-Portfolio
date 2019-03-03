@@ -274,6 +274,7 @@ input[type=submit] {
       width: 80%;
 }
 
+
 .main-section {
    width: 95%;
    margin-left: 3%;
@@ -293,8 +294,11 @@ input[type=submit] {
      position: static;
  }
 
-
- 
+ .work {
+  width: 80%;
+  position: relative;
+  left: 10%;
+ }
 }
 
 
